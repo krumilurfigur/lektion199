@@ -1,0 +1,13 @@
+main {
+    text-align: center;
+    width: 80%;
+    display: flex;
+}
+
+nav {
+    width: 20%;
+}
+
+.title {
+    text-align: center;
+}
