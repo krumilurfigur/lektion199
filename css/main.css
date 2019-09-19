@@ -1,13 +1,16 @@
 main {
     text-align: center;
-    width: 80%;
-    display: flex;
+}
+
+body {
+    background-color: lightgray;
 }
 
 nav {
-    width: 20%;
+    width: 30%;
 }
 
 .title {
+    font-size: 4em;
     text-align: center;
 }
